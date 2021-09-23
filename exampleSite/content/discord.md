@@ -1,10 +1,11 @@
 +++
 author = "Miguel Pinto"
-categories = []
+categories = ["Anúncios"]
 date = 2021-09-22T23:00:00Z
-description = "Hoje temos orgulho em dizer que temos o discord da vaca"
+description = ""
 image = ""
 title = "Discord"
 type = "post"
 
 +++
+Hoje temos orgulho em dizer que temos o discord da vaca

@@ -25,4 +25,5 @@ fields:
   label: type
   default: post
 pages:
+- exampleSite/content/artigo.md
 - exampleSite/content/discord.md
