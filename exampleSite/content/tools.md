@@ -1,6 +1,4 @@
-x---
-title: "Tools"
-draft: false
-description : "this is meta description"
-layout: tools
----
++++
+
++++
+## x--- title: "Tools" draft: true description : "this is meta description" layout: tools
